@@ -7,7 +7,7 @@ planted secret reaching an attacker inbox, a tool call the user never asked for)
 reply looked safe. Defences are pluggable layers measured one at a time: attack success, detection,
 and the legitimate work they block.
 
-**Write-up:** [docs/REPORT.md](docs/REPORT.md) · **Architecture:** [docs/architecture.md](docs/architecture.md) · **Responsible use:** [SECURITY.md](SECURITY.md) · **Live demo:** _(Streamlit deployment pending)_
+**Write-up:** [docs/REPORT.md](docs/REPORT.md) · **Architecture:** [docs/architecture.md](docs/architecture.md) · **Responsible use:** [SECURITY.md](SECURITY.md) · **Live demo:** https://agent-redteam-ugtlpbwryl6nfotlsbxa5t.streamlit.app/
 
 ## The headline
 
